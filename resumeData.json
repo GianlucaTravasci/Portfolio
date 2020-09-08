@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name": "Gianluca Travasci",
+    "occupation": "MSc student in Computer Science at the University of Padua",
+    "description": "Full stack Javascript developer but constantly looking forward for new frash knowledge",
+    "image": "img.jpg",
+    "bio": "My name is Gianluca, I'm an MSc student in Computer Science and i love challenges, JS and Computer/network security. I'm an ecologist and activist for the international youth movement Friday's for Future.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "gianluca.travasci@gmail.com",
+    "phone": "+39 3489726405",
+    "address": {
+      "street": "Via Della Mula 3/a",
+      "city": "Pordenone",
+      "state": "IT",
+      "zip": "ABC 123"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gianluca.travasci/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gianluca-travasci-b380a51b2/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gianluca_travasci/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/GianlucaTravasci",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "All of my skill achieved in University and with personal studies. I'm basically oriented in the software engeneer and Web Develpment field",
+    "education": [
+      {
+        "school": "University of Padua",
+        "degree": "Three-year degree in Computer Science",
+        "graduated": "December 2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "Positec Italy",
+        "title": "Android developer",
+        "years": "December 2019 - June 2020",
+        "description": "Junior kotlin developer in the android team."
+      },
+      {
+        "company": "Gestiware S.r.l.",
+        "title": "Software Developer",
+        "years": "September 2018 - December 2018",
+        "description": "Internship for three-year degree. I did a document management system for a company in my city."
+      },
+      {
+        "company": "Zucchetti",
+        "title": "Software Developer",
+        "years": "March 2018 - July 2018",
+        "description": "Internship for three-year degree. I did a Robustness diagram editor with java, sql and xml for hibernate code generator."
+      },
+      {
+        "company": "Winner Pizza",
+        "title": "Delivery Man",
+        "years": "2015 - 2017",
+        "description": "Pizza delivery man."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "name": "PostrgeSql",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Robust Designer",
+        "category": "Editor for robustness diagram with Java, SQL and xml (for Hibernate) code generator.",
+        "image": "RobustDesigner.JPG",
+        "url": "https://github.com/GianlucaTravasci/Robust-Designer"
+      },
+      {
+        "title": "Face Detection",
+        "category": "FaceDetection web site built with React, Express and PostgreSql",
+        "image": "FaceDetection.JPG",
+        "url": "https://github.com/GianlucaTravasci/Face-Detection-Web-Site"
+      },
+      {
+        "title": "Picture in Picture",
+        "category": "Web application that enable the picture-in-picture feature in Google Chrome",
+        "image": "PictureInPicture.JPG",
+        "url": "https://github.com/GianlucaTravasci/Picture-in-Picture"
+      },
+      {
+        "title": "Kalk",
+        "category": "Calculator for waves, complex nubers and quaternions built in C++ with Qt",
+        "image": "Calcolatrice.jpg",
+        "url": "https://github.com/GianlucaTravasci/Kalk-p2"
+      },
+      {
+        "title": "(Work in Progress) The Social Network",
+        "category": "A social network build with Javascript, Express and MongoDb",
+        "image": "SocialNetwork.PNG",
+        "url": "https://github.com/GianlucaTravasci/TheSocialNetwork"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Your software is good. Need a little bit of more work to do but we definitely gonna sell your software",
+        "user": "Gestiware"
+      },
+      {
+        "text": "I really loved your research on Security Vulnerabilities on Autonomous Vehicles. I wanna offer you the possibility to extend your research and publish it.",
+        "user": "Prof. Mauro Conti"
+      },
+      {
+        "text": "Nothing to say, your calculator project is great.",
+        "user": "Prof. Francesco Ranzato"
+      }
+    ]
+  }
+}
