@@ -42,7 +42,7 @@
     "education": [
       {
         "school": "University of Padua",
-        "degree": "Three-year degree in Computer Science",
+        "degree": "Three-years degree in Computer Science",
         "graduated": "December 2018"
       }
     ],
@@ -57,13 +57,13 @@
         "company": "Gestiware S.r.l.",
         "title": "Software Developer",
         "years": "September 2018 - December 2018",
-        "description": "Internship for three-year degree. I did a document management system for a company in my city."
+        "description": "Internship for three-years degree. I did a document management system for a company in my city."
       },
       {
         "company": "Zucchetti",
         "title": "Software Developer",
         "years": "March 2018 - July 2018",
-        "description": "Internship for three-year degree. I did a Robustness diagram editor with java, sql and xml for hibernate code generator."
+        "description": "Internship for three-years degree. I did a Robustness diagram editor with java, sql and xml for hibernate code generator."
       },
       {
         "company": "Winner Pizza",
@@ -146,7 +146,7 @@
         "url": "https://github.com/GianlucaTravasci/Kalk-p2"
       },
       {
-        "title": "(Work in Progress) The Social Network",
+        "title": "The Social Network",
         "category": "A social network build with Javascript, Express and MongoDb",
         "image": "SocialNetwork.PNG",
         "url": "https://github.com/GianlucaTravasci/TheSocialNetwork"
